@@ -1,0 +1,14 @@
+{
+  "name": "4a15454780fea983",
+  "main": "4a15454780fea983@5257.js",
+  "version": "5257.0.0",
+  "homepage": "https://observablehq.com/d/4a15454780fea983",
+  "author": {
+    "name": "Adnan Ahsan",
+    "url": "https://observablehq.com/@adnanahsan"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
